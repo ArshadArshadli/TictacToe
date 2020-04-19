@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Faster+One&display=swap');
+*
+{
+	box-sizing: border-box;
+}
+.table-container
+{
+	width: 1200px;
+    height: 700px;
+    background-color: #fceef0;
+    margin: 25px auto;
+
+    text-align: center;
+
+}
+.row-text
+{
+	font-size: 35px;
+    font-family: 'Faster One', cursive;
+    color:tomato;
+    font-style: 200;
+    text-align: center;
+
+}
+td
+{
+width: 100px;
+height: 100px;
+
+
+}
+.vertical
+{
+	border-left: 10px solid tomato;
+	border-right: 10px solid tomato;
+
+}
+.horizantal
+{
+	border-bottom: 10px solid tomato;
+}
+table
+{
+	border-collapse: separate;
+    border-spacing: 0px;
+    text-align: center;
+}
+tr
+{
+	margin: 0px;
+    padding: 0px;
+}
+ /*Boz rəng çaları: #bdc3c7, mavi rəng: #3498db*/
